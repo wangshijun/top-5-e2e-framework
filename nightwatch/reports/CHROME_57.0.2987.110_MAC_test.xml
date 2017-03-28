@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="test"
+    errors="0" failures="1" hostname="" id="" package="test" skipped="0"
+    tests="1" time="13.44" timestamp="Tue, 28 Mar 2017 23:16:57 GMT">
+  
+    <testcase name="Github Search" classname="test" time="13.44" assertions="2">
+
+      <failure message="Failed [equal]: (should show 10 results)">    at Object.&lt;anonymous&gt; (/Users/wangshijun/Documents/Feweekly/writings/top-5-rated-nodejs-e2e-framework/nightwatch/test.js:13:28)</failure>
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

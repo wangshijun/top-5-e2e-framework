@@ -1,0 +1,15 @@
+{
+  "tests": "./test*.js",
+  "timeout": 10000,
+  "output": "./output",
+  "helpers": {
+    "SeleniumWebdriver": {
+      "url": "http://localhost",
+      "browser": "chrome"
+    }
+  },
+  "include": {},
+  "bootstrap": false,
+  "mocha": {},
+  "name": "codeceptjs"
+}
