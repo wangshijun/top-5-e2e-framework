@@ -1,5 +1,7 @@
 # 最受欢迎的 5 款 Node.js 端到端测试框架
 
+> 本文共 7717 字，读完需 10 分钟，速读需 5 分钟，适合中高级前端工程师，本文对主流的 E2E 测试框架做了简单对比，期望对大家的技术选型有帮助。
+
 测试，尤其是自动化测试在现代 WEB 工程中有着非常重要的角色，与交付过程集成良好的自动化测试流程可以在新版发布时帮你快速回归产品功能，也可以充当产品文档。测试因粒度不同又可以分为单元测试、接口测试、功能测试。在 WEB 领域，功能测试亦称为`端到端测试`（[End to End Test][34]，简称 `E2E 测试`），笔者在本文中会结合自身实践和 GitHub 趋势对比最受欢迎的 Node.js E2E 测试解决方案，首先我们按 GitHub 的 star 总数量排序，取前 5 名列举如下（注意：你阅读本文时 star 的数量可能已经不是最新的）。
 
 * CasperJS — 6460 个 star，[官网][0]，[代码][1]，最近更新于 7 天前；
@@ -370,4 +372,4 @@ Scenario('search codecept repo', (I) => {
 [34]: https://www.tutorialspoint.com/software_testing_dictionary/end_to_end_testing.htm
 [35]: http://coffeescript.org/
 [36]: https://medium.com/@adrian_lewis/top-5-most-rated-node-js-frameworks-for-end-to-end-web-testing-f8ebca4e5d44#.e03ky5jgy
-[37]: Github REPO
+[37]: https://github.com/wangshijun/5-most-popular-nodejs-e2e-framework
